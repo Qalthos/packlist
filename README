@@ -1,0 +1,1 @@
+python generate_list.py | rst2html.py --stylesheet style.css > list.html

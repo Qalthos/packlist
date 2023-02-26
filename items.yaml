@@ -1,0 +1,108 @@
+---
+On Person:
+  - Purse:
+      - Wallet:
+          - Passport
+      - Phone
+  - Base Layer Upper
+  - Base Layer Leggings
+  - Ansible Hoodie
+  - Mechanics Cap
+
+Backpack:
+  Top Pocket:
+    - Patches:
+        - 6x Estradiol Patches
+        - 6x Clear Patches
+    - Ibuprofen
+    - 14x Spironolactone
+  Main Pocket:
+    - Power Bag:
+        - Main Pocket:
+            - Power Adapter
+            - USB-C Charger
+            - Running Headphones
+        - A-to-microB Cable
+        - A-to-C Cable
+        - C-to-C Cable
+        - 3.5-to-C Cable
+        - 3.5 Cable
+        - Watch Charge Cable
+        - Running Charge Cable
+    - Headphones
+    - Epilator Kit
+  Secondary Pocket:
+    - Kindle
+    - Journal
+    - Sharpie
+    - Fine Pen
+    - USB Battery
+    - 10x Masks
+
+Carryon:
+  Main Volume:
+    - Swim Bag:
+        - Coverup
+        - Swimdress
+        - Tucking Bikini
+        - Flip-flops
+    - 4x Packing Cube:
+        - Bra/Sports Bra
+        - 2x Panties
+        - 2x Socks
+        - 2x Hankies
+        - Spaghetti Tank
+        - Leggings
+    - Workout Shirt
+    - Sleep Shorts
+    - Bike Shorts
+    - Adventure Pants
+  Inner Pocket:
+    - Tuck Kit
+  Inner Side Pocket:
+  Top Pocket:
+    - Moustache
+  Bottom Pocket:
+
+Checked Bag:
+  Triangle Pocket L:
+    - Sunglasses
+    - Hair Accessories
+  Triangle Pocket R:
+    - Tiara
+    - Yes/No Magnetic Pins
+  Clothes Rack:
+    - Goth Dress
+    - Formal Dress
+    - Eevee Dress
+    - Roses Dress
+  Main Volume:
+    - Makeup Bag:
+        - Brushes
+        - Eyeshade
+        - Inner bag:
+            - Solid Eyeliner
+            - Liquid Eyeliner
+            - Lip Gloss
+    - Toiletries Bag:
+        - Razor (Face)
+        - Razor (Leg)
+        - Toothbrush
+        - Hair Brush
+        - Comb
+        - Nail Clippers
+        - Deodorant
+    - Casual Sandals
+    - Fancy Sandals
+    - Goth Boots
+  Upper Inside Pocket L:
+    - Leather Skirt
+    - Blue Skirt
+  Upper Inside Pocket R:
+    - 3/4 Shift
+  Lower Inside Pocket:
+  Outside Pocket:
+    - Liquids:
+        - Sunscreen
+        - Toothpaste
+        - Shaving Cream

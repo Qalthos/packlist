@@ -1,0 +1,27 @@
+.document {
+  columns: auto;
+}
+.section {
+  break-inside: avoid;
+  margin-bottom: 0.4em;
+}
+h1 {
+  font-size: x-large;
+  margin: 0;
+}
+h2 {
+  font-size: medium;
+  margin: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 1em;
+}
+
+/* print styles */
+@media print {
+  .document {
+    columns: 3 auto;
+  }
+}
