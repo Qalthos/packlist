@@ -1,13 +1,14 @@
 ---
 On Person:
-  - Purse:
-      - Wallet:
-          - Passport
-      - Phone
-  - Base Layer Upper
-  - Base Layer Leggings
-  - Ansible Hoodie
-  - Mechanics Cap
+  Purse:
+    - Wallet:
+        - Passport
+    - Phone
+  Worn:
+    - Base Layer Upper
+    - Base Layer Leggings
+    - Ansible Hoodie
+    - Mechanics Cap
 
 Backpack:
   Top Pocket:
@@ -21,7 +22,6 @@ Backpack:
         - Main Pocket:
             - Power Adapter
             - USB-C Charger
-            - Running Headphones
         - A-to-microB Cable
         - A-to-C Cable
         - C-to-C Cable
@@ -37,6 +37,7 @@ Backpack:
     - Sharpie
     - Fine Pen
     - USB Battery
+    - Running Headphones
     - 10x Masks
 
 Carryon:
@@ -62,15 +63,21 @@ Carryon:
   Inner Side Pocket:
   Top Pocket:
     - Moustache
+    - Yes/No Magnetic Pins
   Bottom Pocket:
 
 Checked Bag:
   Triangle Pocket L:
-    - Sunglasses
-    - Hair Accessories
+    - Hair Accessories:
+        - 2x Scrunchies
+        - 2x Hair Clips
+        - Hair Ties
+        - Bobby Pins
+        - Flowers
+        - Cherry Bow
   Triangle Pocket R:
     - Tiara
-    - Yes/No Magnetic Pins
+    - Sunglasses
   Clothes Rack:
     - Goth Dress
     - Formal Dress
@@ -83,7 +90,8 @@ Checked Bag:
         - Inner bag:
             - Solid Eyeliner
             - Liquid Eyeliner
-            - Lip Gloss
+            - Lip Cream
+            - Lipstick
     - Toiletries Bag:
         - Razor (Face)
         - Razor (Leg)
