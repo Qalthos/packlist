@@ -1,6 +1,9 @@
 .document {
   column-width: 17em;
 }
+.document > div {
+  margin-bottom: 0.4em;
+}
 .section {
   margin: 0;
 }
