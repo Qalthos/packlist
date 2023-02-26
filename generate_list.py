@@ -3,12 +3,11 @@ from pathlib import Path
 
 import yaml
 
-Subpocket = dict[str, str]
-Pocket = list[str | Subpocket]
-Container = dict[str, Pocket]
+Container = dict[str, "Pocket"]
+Pocket = list[str | Container]
 
 
-def print_pocket(pocket: Pocket | Subpocket, /, prefix: str = ""):
+def print_pocket(pocket: Pocket, /, prefix: str = ""):
     for item in pocket:
         if isinstance(item, dict):
             for name, subpocket in item.items():
