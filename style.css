@@ -1,21 +1,25 @@
-.document {
+main {
   column-width: 17em;
 }
-.document > div {
+main > section {
   margin-bottom: 0.4em;
 }
-.section {
+section {
   margin: 0;
 }
-.section > div {
+section > section {
   break-inside: avoid;
 }
-h1 {
-  font-size: x-large;
-  margin: 0;
-}
 h2 {
+  font-size: x-large;
+}
+h3 {
   font-size: medium;
+}
+h1,
+h2,
+h3,
+p {
   margin: 0;
 }
 ul {
@@ -26,7 +30,7 @@ ul {
 
 /* print styles */
 @media print {
-  .document {
+  main {
     columns: 3 auto;
   }
 }
