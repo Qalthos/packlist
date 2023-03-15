@@ -1,12 +1,12 @@
 ---
 On Person:
   Purse:
-    - Wallet:
-        - Passport
+    - Travel Wallet
     - Phone
   Worn:
     - Base Layer Upper
     - Base Layer Leggings
+    - Green Cardigan
     - Ansible Hoodie
     - Mechanics Cap
 
@@ -17,6 +17,7 @@ Backpack:
         - 6x Clear Patches
     - Ibuprofen
     - 14x Spironolactone
+    - JST Batteries
   Main Pocket:
     - Power Bag:
         - Main Pocket:
@@ -24,7 +25,6 @@ Backpack:
             - USB-C Charger
         - A-to-microB Cable
         - A-to-C Cable
-        - C-to-C Cable
         - 3.5-to-C Cable
         - 3.5 Cable
         - Watch Charge Cable
@@ -37,10 +37,11 @@ Backpack:
     - Sharpie
     - Fine Pen
     - USB Battery
+    - C-to-C Cable
     - Running Headphones
     - 10x Masks
 
-Carryon:
+Carry-on:
   Top Pocket:
     - Moustache
     - Yes/No Magnetic Pins
@@ -57,15 +58,17 @@ Carryon:
         - 2x Panties
         - 2x Socks
         - 2x Hankies
+        - 2x Shirts
         - Spaghetti Tank
         - Leggings
     - Workout Shirt
     - Sleep Shorts
-    - Bike Shorts
+    - 2x Bike Shorts
     - Adventure Pants
   Inner Pocket:
     - Tuck Kit
   Inner Side Pocket:
+    - LED Glasses
 
 Checked Bag:
   Triangle Pocket L:
@@ -82,20 +85,15 @@ Checked Bag:
   Clothes Rack:
     - Goth Dress
     - Formal Dress
-    - Eevee Dress
     - Roses Dress
+    - Strawberry Dress
+    - Eevee Dress
+    - Blue Dress
   Main Volume:
-    - Makeup Bag:
-        - Brushes
-        - Eyeshade
-        - Inner bag:
-            - Solid Eyeliner
-            - Liquid Eyeliner
-            - Lip Cream
-            - Lipstick
+    - Makeup Bag
     - Toiletries Bag:
         - Razor (Face)
-        - Razor (Leg)
+        - Razor (Body)
         - Toothbrush
         - Hair Brush
         - Comb
@@ -110,8 +108,10 @@ Checked Bag:
   Upper Inside Pocket R:
     - 3/4 Shift
   Lower Inside Pocket:
+    - Knit Cardigan
   Outside Pocket:
     - Liquids:
         - Sunscreen
         - Toothpaste
-        - Shaving Cream
+        - Shaving Cream (Face)
+        - Shaving Cream (Body)

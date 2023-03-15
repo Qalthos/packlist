@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from pathlib import Path
+import sys
 
 import yaml
 
@@ -26,7 +27,11 @@ def print_container(container: Container):
 
 
 def main():
-    config = Path("items.yaml")
+    config = Path(sys.argv[1])
+    if not config.exists():
+        print(f"Could not find source file {config}")
+        sys.exit(1)
+
     with open(config, "r") as yaml_file:
         items: dict[str, Container | Pocket] = yaml.safe_load(yaml_file)
 
