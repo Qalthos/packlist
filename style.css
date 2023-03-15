@@ -5,6 +5,7 @@ main > section {
   margin-bottom: 0.4em;
 }
 section {
+  break-inside: avoid-page;
   margin: 0;
 }
 section > section {
