@@ -1,2 +1,5 @@
 .python-version
-list.html
+*.html
+lists/*.yaml
+.direnv
+.envrc
