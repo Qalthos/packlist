@@ -5,8 +5,10 @@ main > section {
   margin-bottom: 0.4em;
 }
 section {
-  break-inside: avoid-page;
   margin: 0;
+}
+main > section {
+  break-inside: avoid-column;
 }
 section > section {
   break-inside: avoid;
