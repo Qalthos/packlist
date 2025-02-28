@@ -1,1 +1,1 @@
-python generate_list.py lists/cruise.yaml | rst2html5.py --stylesheet style.css --link-stylesheet > list.html
+python generate_list.py lists/cruise.yaml
